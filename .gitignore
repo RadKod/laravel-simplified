@@ -1,0 +1,50 @@
+### Project ###
+/public/css
+/public/img
+/public/js
+/public/mix-manifest.json
+/storage/*.key
+
+### Laravel ###
+/public/hot
+/public/storage
+Homestead.json
+Homestead.yaml
+.env
+
+### Composer ###
+/vendor/
+composer.lock
+
+### PHPStorm ###
+.idea
+
+### Node ###
+node_modules/
+npm-debug.log*
+
+### Yarn ###
+yarn-debug.log*
+yarn-error.log*
+
+### PHPUnit ###
+.phpunit.result.cache
+.phpunit.cache
+/build/
+
+### Docker ###
+docker-compose.override.yml
+
+### Linux ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon
